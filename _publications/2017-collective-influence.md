@@ -2,7 +2,7 @@
 title: "Efficient Collective Influence Maximization in Cascading Processes with First-Order Transitions"
 collection: publications
 permalink: /publication/2017-collective-influence
-excerpt: 'Sen Pei, <b>Xian Teng</b>, Jeffrey Shaman, Flaviano Morone, Hernán A. Makse (2017). &quot;Efficient Collective Influence Maximization in Cascading Processes with First-Order Transitions.&quot; <i>Sci Rep 7</i>. 45240 (2017). ([link](https://doi.org/10.1038/srep45240), [pdf](/files/pdf/research/2017-collective-influence.pdf))'
+excerpt: 'Sen Pei, <b>Xian Teng</b>, Jeffrey Shaman, Flaviano Morone, Hernán A. Makse (2017). &quot;Efficient Collective Influence Maximization in Cascading Processes with First-Order Transitions.&quot; <i>Sci Rep 7</i>. 45240 (2017). ([link](https://doi.org/10.1038/srep45240), [pdf](/files/pdf/research/2017-collective-influence.pdf), [github](https://github.com/xit22penny/CITM))'
 date: 2017-03-28
 venue: 'Scientific Reports'
 # citation: '<b>Xian Teng</b>, Yu-Ru Lin, Wen-Ting Chung, Ang Li, Adriana Kovashka (2022). &quot;Characterizing User Susceptibility to COVID-19 Misinformation on Twitter.&quot; <i>ICWSM 2022</i>.'

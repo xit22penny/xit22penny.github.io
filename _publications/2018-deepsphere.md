@@ -2,7 +2,7 @@
 title: "Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks"
 collection: publications
 permalink: /publication/2018-deepsphere
-excerpt: '<b>Xian Teng</b>, Muheng Yan, Ali Mert Ertugrul, Yu-Ru Lin (2018). &quot;Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks.&quot; <i>IJCAI 2018</i>. ([link](https://doi.org/10.24963/ijcai.2018/378), [pdf](/files/pdf/research/2018-deepsphere.pdf))'
+excerpt: '<b>Xian Teng</b>, Muheng Yan, Ali Mert Ertugrul, Yu-Ru Lin (2018). &quot;Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks.&quot; <i>IJCAI 2018</i>. ([link](https://doi.org/10.24963/ijcai.2018/378), [pdf](/files/pdf/research/2018-deepsphere.pdf), [github](https://github.com/picsolab/DeepSphere))'
 date: 2018-07-01
 venue: 'IJCAI'
 # citation: '<b>Xian Teng</b>, Muheng Yan, Ali Mert Ertugrul, Yu-Ru Lin (2018). &quot;Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks.&quot; <i>IJCAI 2018</i>. doi.org/10.24963/ijcai.2018/378'

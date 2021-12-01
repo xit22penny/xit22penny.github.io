@@ -2,7 +2,7 @@
 title: "StoCast: Stochastic Disease Forecasting With Progression Uncertainty"
 collection: publications
 permalink: /publication/2021-stocast
-excerpt: '<b>Xian Teng</b>, Sen Pei and Yu-Ru Lin (2021). &quot;StoCast: Stochastic Disease Forecasting With Progression Uncertainty.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>. vol. 25, no. 3, pp. 850-861, March 2021. ([link](https://ieeexplore.ieee.org/document/9132696), [pdf](/files/pdf/research/2021-stocast.pdf))'
+excerpt: '<b>Xian Teng</b>, Sen Pei and Yu-Ru Lin (2021). &quot;StoCast: Stochastic Disease Forecasting With Progression Uncertainty.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>. vol. 25, no. 3, pp. 850-861, March 2021. ([link](https://ieeexplore.ieee.org/document/9132696), [pdf](/files/pdf/research/2021-stocast.pdf), [github](https://github.com/picsolab/StoCast))'
 date: 2021-03-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 # citation: '<b>Xian Teng</b>, Sen Pei and Yu-Ru Lin (2021). &quot;StoCast: Stochastic Disease Forecasting With Progression Uncertainty.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>. vol. 25, no. 3, pp. 850-861, March 2021. doi: 10.1109/JBHI.2020.3006719.'

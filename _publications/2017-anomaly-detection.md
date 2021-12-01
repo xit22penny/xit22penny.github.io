@@ -2,7 +2,7 @@
 title: "Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning"
 collection: publications
 permalink: /publication/2017-anomaly-detection
-excerpt: '<b>Xian Teng</b>, Yu-Ru Lin, Xidao Wen (2017). &quot;Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learnin.&quot; <i>CIKM 2017</i>. ([link](https://doi.org/10.1145/3132847.3132964), [pdf](/files/pdf/research/2017-anomaly-detection.pdf))'
+excerpt: '<b>Xian Teng</b>, Yu-Ru Lin, Xidao Wen (2017). &quot;Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learnin.&quot; <i>CIKM 2017</i>. ([link](https://doi.org/10.1145/3132847.3132964), [pdf](/files/pdf/research/2017-anomaly-detection.pdf), [github](https://github.com/picsolab/Anomaly_Detection_MTHL))'
 date: 2017-11-01
 venue: 'CIKM'
 # citation: '<b>Xian Teng</b>, Yu-Ru Lin, Xidao Wen (2017). &quot;Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learnin.&quot; <i>CIKM 2017</i>. doi.org/10.1145/3132847.3132964'
