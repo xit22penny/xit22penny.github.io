@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at School of Computing and Information [(SCI)](http://sci.pitt.edu), University of Pittsburgh. I work at PITT Computational Social Dynamics Lab [(PICSO)](https://picsolab.github.io) directed by Dr. [Yu-Ru Lin](http://www.yurulin.com/index.html), and PITT Initiative on the Computational Social Science [(PittCSS)](https://pittcss.github.io). My research lies in the fields of data science, network science, computational social science, and machine learning. I am motivated to understand dynamics and heterogeneity in complex social systems, and to support data-driven decisions for social good. I use methods including network analysis and modeling, statistical analysis and causal inference, data mining and machine learning techniques. My major [research projects](/research/) include:
+I am a PhD candidate at School of Computing and Information [(SCI)](http://sci.pitt.edu), University of Pittsburgh. I work at PITT Computational Social Dynamics Lab [(PICSO)](https://picsolab.github.io) directed by Dr. [Yu-Ru Lin](http://www.yurulin.com/index.html), and PITT Initiative on the Computational Social Science [(PittCSS)](https://pittcss.github.io). I worked at Facebook (2019), Sumsung Research America (2018). 
+
+News
+======
+I am currently **on the job market** and looking for a research position. Please contact me with relevant opportunities!
+
+Research
+======
+My research lies in the fields of machine learning, deep learning, data/network science, and computational social science. I am motivated to understand dynamics and heterogeneity in complex social systems, and to support data-driven decisions for social good. I use methods including network analysis and modeling, statistical analysis and causal inference, data mining and machine learning techniques. My major [research projects](/research/) include:
 - tackling spurious associations in practical observational studies (with a focus on Simpson's paradox), and supporting humans to achieve better data-driven decisions.
 - battling COVID-19 infodemic, including characterizing user susceptibility to COVID-19 misinformation on social media, as well as assessment of offline risk of COVID-19 from online misinformation.
 - modeling and understanding the dynamics of information and disease in networks, as well as detecting anomaly in dynamic networks.
-
-I was an intern at Facebook (2019), Sumsung Research America (2018). 
 
 Check out my [publications](/publications/) and [CV](/cv/) for more information.
 
