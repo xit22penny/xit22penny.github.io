@@ -26,6 +26,7 @@ Check out my [publications](/publications/) and [CV](/cv/) for more information.
 
 Updates
 ======
+- **06/2022** I attended ICWSM 2022 @Atlanta, US and gave oral presentation.
 - **11/2021** I defended my dissertation proposal and officially become a PhD candidate.
 - **08/2021** I gave a presentation of our work at PaCSS 2021.
 - **07/2021** Our [paper](https://arxiv.org/abs/2109.09532) is accepted by ICWSM 2022. This study seeks to understand online susceptible users, i.e., those who are likely to be attracted by, believe and spread COVID-19 misinformation, ranging from social bots to humans with various misinformation engagement levels.
