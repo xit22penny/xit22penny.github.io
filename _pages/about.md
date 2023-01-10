@@ -10,10 +10,6 @@ redirect_from:
 
 I am a PhD candidate at School of Computing and Information [(SCI)](http://sci.pitt.edu), University of Pittsburgh. I work at PITT Computational Social Dynamics Lab [(PICSO)](https://picsolab.github.io) directed by Dr. [Yu-Ru Lin](http://www.yurulin.com/index.html), and PITT Initiative on the Computational Social Science [(PittCSS)](https://pittcss.github.io). I worked at Facebook (2019), Sumsung Research America (2018). 
 
-News
-======
-I am currently **on the job market** and looking for a research position. Please contact me with relevant opportunities!
-
 Research
 ======
 My research lies in the fields of machine learning, deep learning, data/network science, and computational social science. I am motivated to understand dynamics and heterogeneity in complex social systems, and to support data-driven decisions for social good. I use methods including network analysis and modeling, statistical analysis and causal inference, data mining and machine learning techniques. My major [research projects](/research/) include:
